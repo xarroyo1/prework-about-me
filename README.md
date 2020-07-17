@@ -1,4 +1,3 @@
 ## About Me 
 
-* This website is a static HTML website using semantic tags and minimal CSS. 
-* It is currently hosted on Github Pages.
+Overview: created this portfolio about me shocasing my website using bootstrap, css, and simple html 
